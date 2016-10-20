@@ -1,4 +1,4 @@
-//Fribble!
+//Frubble!
 //Friddle
 //Frabble!
 public class Fribble {
