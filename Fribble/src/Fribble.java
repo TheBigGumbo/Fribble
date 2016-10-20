@@ -1,4 +1,4 @@
-
+//Fribble!
 public class Fribble {
 
 	public static void main(String[] args) {
