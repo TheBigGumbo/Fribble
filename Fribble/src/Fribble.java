@@ -1,5 +1,6 @@
 //Fribble!
 //Friddle
+//Frabble!
 public class Fribble {
 
 	public static void main(String[] args) {
